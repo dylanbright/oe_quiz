@@ -85,7 +85,7 @@ function displayQuestion(index) {
         `<label>
           <input type="radio" name="question" value="${letter}">
           ${letter} : ${currentQuestion.answers[letter]}
-        </label>`
+        </label><br>` // Add a line break after each label
       );
     }
   

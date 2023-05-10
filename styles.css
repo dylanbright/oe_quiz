@@ -23,16 +23,18 @@ body {
   }
   
   button {
-    background-color: #e0c9a9;
+    background-color: #1d542c;
     color: white;
     border: none;
+    font-size: 18px; /* Increase the font size */
+    padding: 1rem 2rem; /* Increase the padding */
     padding: 0.5rem 1rem;
     margin-top: 1rem;
     cursor: pointer;
   }
   
   button:hover {
-    background-color: #255228;
+    background-color: #719b74;
   }
   
   #results-container {
