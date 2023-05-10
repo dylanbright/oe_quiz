@@ -5,7 +5,7 @@ body {
   }
   
   header {
-    background-color: #4CAF50;
+    background-color: #29582a;
     color: white;
     text-align: center;
     padding: 1rem;
@@ -23,7 +23,7 @@ body {
   }
   
   button {
-    background-color: #4CAF50;
+    background-color: #e0c9a9;
     color: white;
     border: none;
     padding: 0.5rem 1rem;
@@ -32,7 +32,7 @@ body {
   }
   
   button:hover {
-    background-color: #45a049;
+    background-color: #255228;
   }
   
   #results-container {
