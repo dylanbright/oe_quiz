@@ -408,7 +408,7 @@
         "question": "What is the Old English pronoun for 'us' (plural, accusative case)?",
         "answers": {
           "a": "usic",
-          "b": "eowic",
+          "b": "eowic or eow",
           "c": "hie"
         },
         "correctAnswer": "a"
@@ -417,7 +417,7 @@
         "question": "What is the Old English pronoun for 'you' (plural, accusative case)?",
         "answers": {
           "a": "usic",
-          "b": "eowic",
+          "b": "eowic or eow",
           "c": "hi"
         },
         "correctAnswer": "b"
@@ -574,8 +574,294 @@
           "c": "hit"
         },
         "correctAnswer": "b"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'ic'?",
+        "answers": {
+          "a": "I (nominative)",
+          "b": "me (accusative)",
+          "c": "mine (genitive)"
+        },
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'þu' (singular)?",
+        "answers": {
+          "a": "he (nominative)",
+          "b": "you (nominative)",
+          "c": "thee (accusative)"
+        },
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'he'?",
+        "answers": {
+          "a": "you (nominative)",
+          "b": "he (nominative)",
+          "c": "him (accusative)"
+        },
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'heo'?",
+        "answers": {
+          "a": "she (nominative)",
+          "b": "her (accusative)",
+          "c": "hers (genitive)"
+        },
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'hit'?",
+        "answers": {
+          "a": "he (nominative)",
+          "b": "you (nominative)",
+          "c": "it (nominative)"
+        },
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'we'?",
+        "answers": {
+          "a": "we (nominative)",
+          "b": "us (accusative)",
+          "c": "our (genitive)"
+        },
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'ge' (plural)?",
+        "answers": {
+          "a": "he (nominative)",
+          "b": "you all (accusative)",
+          "c": "you (nominative)"
+        },
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'hie'?",
+        "answers": {
+          "a": "they (nominative)",
+          "b": "them (accusative)",
+          "c": "their (genitive)"
+        },
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'mec'?",
+        "answers": {
+          "a": "I (nominative)",
+          "b": "me (accusative)",
+          "c": "mine (genitive)"
+        },
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'þec' (singular)?",
+        "answers": {
+          "a": "he (nominative)",
+          "b": "you (nominative)",
+          "c": "you (accusative)"
+        },
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'hine'?",
+        "answers": {
+          "a": "you (nominative)",
+          "b": "he (nominative)",
+          "c": "him (accusative)"
+        },
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'hie'?",
+        "answers": {
+          "a": "she (nominative)",
+          "b": "her (accusative)",
+          "c": "hers (genitive)"
+        },
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'hit'?",
+        "answers": {
+          "a": "he (nominative)",
+          "b": "you (nominative)",
+          "c": "it (accusative)"
+        },
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'us'?",
+        "answers": {
+          "a": "we (nominative)",
+          "b": "us (accusative)",
+          "c": "our (genitive)"
+        },
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'eow' (plural)?",
+        "answers": {
+          "a": "he (nominative)",
+          "b": "you all (accusative)",
+          "c": "you (nominative)"
+        },
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'hie'?",
+        "answers": {
+          "a": "they (nominative)",
+          "b": "them (accusative)",
+          "c": "their (genitive)"
+        },
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'min'?",
+        "answers": {
+          "a": "I (nominative)",
+          "b": "my (genitive)",
+          "c": "me (accusative)"
+        },
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'þin' (singular)?",
+        "answers": {
+          "a": "your (genitive)",
+          "b": "you (nominative)",
+          "c": "you (accusative)"
+        },
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'his'?",
+        "answers": {
+          "a": "his (genitive)",
+          "b": "he (nominative)",
+          "c": "him (accusative)"
+        },
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'hire'?",
+        "answers": {
+          "a": "she (nominative)",
+          "b": "her (accusative)",
+          "c": "her (genitive)"
+        },
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'his'?",
+        "answers": {
+          "a": "he (nominative)",
+          "b": "you (nominative)",
+          "c": "its (genitive)"
+        },
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'ure'?",
+        "answers": {
+          "a": "we (nominative)",
+          "b": "us (accusative)",
+          "c": "our (genitive)"
+        },
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'eower' (plural)?",
+        "answers": {
+          "a": "he (nominative)",
+          "b": "your all's (genitive)",
+          "c": "you (nominative)"
+        },
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'hira'?",
+        "answers": {
+          "a": "they (nominative)",
+          "b": "them (accusative)",
+          "c": "their (genitive)"
+        },
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'me'?",
+        "answers": {
+          "a": "I (nominative)",
+          "b": "my (genitive)",
+          "c": "me (dative or accusative)"
+        },
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'þe' (singular)?",
+        "answers": {
+          "a": "you (nominative)",
+          "b": "your (genitive)",
+          "c": "you (dative or accusative)"
+        },
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'him'?",
+        "answers": {
+          "a": "he (nominative)",
+          "b": "his (genitive)",
+          "c": "him (dative or accusative)"
+        },
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'hire'?",
+        "answers": {
+          "a": "she (nominative)",
+          "b": "her (genitive)",
+          "c": "her (dative or accusative)"
+        },
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'him'?",
+        "answers": {
+          "a": "it (nominative)",
+          "b": "its (genitive)",
+          "c": "it (dative or accusative)"
+        },
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'us'?",
+        "answers": {
+          "a": "we (nominative)",
+          "b": "our (genitive)",
+          "c": "us (dative or accusative)"
+        },
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'eow' (plural)?",
+        "answers": {
+          "a": "you (nominative)",
+          "b": "your all's (genitive)",
+          "c": "you (dative or accusative)"
+        },
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What is the modern English pronoun for Old English 'him'?",
+        "answers": {
+          "a": "they (nominative)",
+          "b": "their (genitive)",
+          "c": "them (dative or accusative)"
+        },
+        "correctAnswer": "c"
       }
-
-
   ]
   
