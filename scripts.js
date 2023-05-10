@@ -8,10 +8,11 @@ let numCorrect = 0;
 let incorrectAnswers = [];
 let numQuestions = 0;
 
-async function fetchQuestions() {
-  const response = await fetch("personal_pronouns.json");
+async function fetchQuestions(filename) {
+  const response = await fetch(filename);
   return await response.json();
 }
+
 
 function shuffle(array) {
   for (let i = array.length - 1; i > 0; i--) {
@@ -24,7 +25,15 @@ async function startQuiz() {
   const numQuestionsInput = document.getElementById("num-questions");
   numQuestions = parseInt(numQuestionsInput.value);
 
-  questions = await fetchQuestions();
+  const quizTypeInput = document.querySelector("input[name=quiz-type]:checked");
+  const quizType = quizTypeInput.value;
+
+  if (quizType === "personal") {
+    questions = await fetchQuestions("personal_pronouns.json");
+  } else if (quizType === "demonstrative") {
+    questions = await fetchQuestions("demonstrative_pronouns.json");
+  }
+
   shuffle(questions);
   questions = questions.slice(0, numQuestions); // limit the number of questions
 
@@ -33,6 +42,7 @@ async function startQuiz() {
 
   displayQuestion(currentQuestionIndex);
 }
+
   
  async function renderQuestion() {
     questions = await fetchQuestions();
